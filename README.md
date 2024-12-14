@@ -10,14 +10,6 @@
 - My goal is to learn more about BJT, MOSFET, IGBT circuits, as well as temperature and light sensors.
 - This will not only help me improve my logical thinking ability but also expand my knowledge about power efficiency, power, bandwidth gain and signal amplitude.
 - This knowledge will be a solid foundation for me to develop, research and design hardware in the future, thereby improving my professional level.
-  
-**Power part:**
-
-  
-**Sensor part:**
-
-  
-**Motor part:**
 
 ## Quick View of the Project
 
