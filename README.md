@@ -19,19 +19,19 @@
 
 ## Quick View of the Project
 
-**Circuit simulation on Proteus software**
+**Circuit simulation AC&DC on Proteus software**
 ![image](Media/1.jpg)
 
-**Circuit layout on Altium Design software**
+**Circuit simulation sensor on Proteus software**
 ![image](Media/2.jpg)
 
-**3D interface on Altium Design software**
+**Circuit simulation source 24v & 5v on Proteus software**
 ![image](Media/3.jpg)
 
-**2D interface on Altium Design software**
+**3D interface on Altium Design software**
 ![image](Media/4.jpg)
 
-**Actual interface on Altium Design software**
+**3D interface on Altium Design software**
 ![image](Media/5.jpg)
 
 **Actual interface on Altium Design software**
