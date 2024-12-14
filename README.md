@@ -20,16 +20,19 @@
 ## Quick View of the Project
 
 **Circuit simulation on Proteus software**
-![image](Media/11.jpg)
+![image](Media/1.jpg)
 
 **Circuit layout on Altium Design software**
-![image](Media/22.jpg)
+![image](Media/2.jpg)
 
 **3D interface on Altium Design software**
-![image](Media/33.jpg)
+![image](Media/3.jpg)
 
 **2D interface on Altium Design software**
-![image](Media/44.jpg)
+![image](Media/4.jpg)
 
 **Actual interface on Altium Design software**
-![image](Media/55.jpg)
+![image](Media/5.jpg)
+
+**Actual interface on Altium Design software**
+![image](Media/6.jpg)
